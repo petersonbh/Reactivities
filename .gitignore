@@ -1,3 +1,6 @@
+/node-modules
+/.pnp
+.pnp.js
 bin
 obj
 .DS_Store
