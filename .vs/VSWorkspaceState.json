@@ -3,8 +3,10 @@
     "",
     "\\API",
     "\\Application",
+    "\\Application\\Activities",
     "\\client-app",
     "\\client-app\\src"
   ],
+  "SelectedNode": "\\Application\\Activities\\Create.cs",
   "PreviewInSolutionExplorer": false
 }

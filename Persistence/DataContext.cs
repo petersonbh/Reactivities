@@ -20,5 +20,7 @@ namespace Persistence
             base.OnModelCreating(modelBuilder);
         }
         public DbSet<Value> Value { get; set; }
+
+        public DbSet<Activity> Activities { get; set; }
     }
 }
