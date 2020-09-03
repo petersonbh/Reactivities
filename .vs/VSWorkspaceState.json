@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
     "\\Application",
     "\\Application\\Activities",
     "\\client-app",
-    "\\client-app\\src"
+    "\\client-app\\src",
+    "\\client-app\\src\\App",
+    "\\client-app\\src\\App\\Models",
+    "\\client-app\\src\\Features",
+    "\\client-app\\src\\Features\\activities",
+    "\\client-app\\src\\Features\\activities\\form"
   ],
-  "SelectedNode": "\\Application\\Activities\\Create.cs",
+  "SelectedNode": "\\client-app\\src\\App\\Models\\Activity.ts",
   "PreviewInSolutionExplorer": false
 }
