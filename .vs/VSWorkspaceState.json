@@ -1,16 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Application",
-    "\\Application\\Activities",
     "\\client-app",
-    "\\client-app\\src",
-    "\\client-app\\src\\App",
-    "\\client-app\\src\\App\\Models",
-    "\\client-app\\src\\Features",
-    "\\client-app\\src\\Features\\activities",
-    "\\client-app\\src\\Features\\activities\\form"
+    "\\client-app\\src"
   ],
-  "SelectedNode": "\\client-app\\src\\App\\Models\\Activity.ts",
+  "SelectedNode": "\\client-app\\tsconfig.json",
   "PreviewInSolutionExplorer": false
 }
